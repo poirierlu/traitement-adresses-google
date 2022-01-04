@@ -1,4 +1,4 @@
-# traitement-adresses_google
+# traitement-adresses-google
 
 Ce petit script est une première approche de Python.
 Il permet de :
